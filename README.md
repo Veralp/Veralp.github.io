@@ -29,7 +29,7 @@ Bem-vindo ao meu portfólio! Este repositório contém uma coleção dos meus pr
 
 ## 📝 Sobre Mim
 
-Sou [Seu Nome], um entusiasta de [sua área de especialização] com experiência em [suas habilidades principais]. Adoro resolver problemas complexos e criar soluções inovadoras que impactem positivamente as pessoas e os negócios.
+Sou Vera, um entusiasta de TI com experiência em BI. Adoro resolver problemas complexos e criar soluções inovadoras que impactem positivamente as pessoas e os negócios.
 
 ## 📞 Contato
 
